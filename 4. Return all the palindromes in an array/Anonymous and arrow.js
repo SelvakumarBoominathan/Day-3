@@ -1,4 +1,5 @@
 //using Arrow and Anonymous Fn:
+
 let list = ["level", 234, 353, "LoL", "apple"];
 let palindromeList = [];
 

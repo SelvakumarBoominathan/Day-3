@@ -1,5 +1,5 @@
 //Remove duplicates from an array:
-//using anonymous Fn:
+//using arrow Fn:
 
 let isDuplicate = ((list) => {
 
